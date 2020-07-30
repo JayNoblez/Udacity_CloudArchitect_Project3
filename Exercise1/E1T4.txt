@@ -1,0 +1,6 @@
+
+---
+Based on: the architecture diagram, steps to upload data into s3 bucket, and the mode of access to the application web service.
+
+2 obvious poor security practices that were  identified include:
+---
