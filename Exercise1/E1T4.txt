@@ -1,9 +1,9 @@
 
-***
+___
 Based on: the architecture diagram, steps to upload data into s3 bucket, and the mode of access to the application web service.
 
 2 obvious poor security practices that were  identified include:
-***
+___
 
 1. Default encryption was not enabled on the s3 buckets. 
 Justification: This is a misconfiguration that places the data security at risk. 
